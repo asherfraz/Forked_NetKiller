@@ -33,6 +33,7 @@ done
 echo ;echo >> lognetkiller.txt
 echo '\033[0m'
 echo ""
+
 read -p "Victims IP separated by [ ; ] : " victim
 echo ""
 echo ""
